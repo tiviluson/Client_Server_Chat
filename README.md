@@ -4,6 +4,7 @@ The first part of the project is to display some information of a webpage and do
 The second part is to implement a chat application.
 
 ## Goal
+- Display the address and hostname of a webpage.
 - Simulate a simple chat application via the socket on one local host.
 - Many clients can send text messages to each other if they are on the same port.
 
